@@ -1,8 +1,8 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-Welcome to our GitHub organization!
+- November 2023
+- the url of this org is https://github.com/local-toronto-php-groups
 
-(September 2023)
-
+#
 My name is Bob Bloom. I am the lead organizer of:
 - Greater Toronto Area (GTA) PHP Group [(https://www.meetup.com/gta-php-user-group-toronto/)](https://www.meetup.com/gta-php-user-group-toronto/)
 - York Region PHP Group [(https://www.meetup.com/york-region-php-user-group/)](https://www.meetup.com/york-region-php-user-group/)
