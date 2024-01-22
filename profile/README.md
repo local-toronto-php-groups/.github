@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- November 2023
+- January 2024
 - the url of this org is https://github.com/local-toronto-php-groups
 
 #
@@ -16,6 +16,6 @@ Hugo, and other static site generators, were promising, but judging by my retice
 
 I have been creating repos to do notes for specific meet-ups. It is handy to be able to edit something regardless of where I am or what device I am using. And, of course, our attendees are very used to GitHub. And, why not do PR's for contributions? 
 
-I have a [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh) for our Groups, mainly uploading updates from time to time (latest one on [October 25, 2023](https://www.youtube.com/watch?v=A_MVtG_HCqw)).
+I have a [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh) for our Groups, mainly uploading updates from time to time (latest one on [October 25, 2023](https://www.youtube.com/watch?v=A_MVtG_HCqw). I will be uploading a video about our January 2024 meet-up.).
 
 My email is "bob.bloom@lasallesoftware.ca". 
