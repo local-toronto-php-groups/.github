@@ -19,3 +19,16 @@ I have been creating repos to do notes for specific meet-ups. It is handy to be 
 I have a [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh) for our Groups, mainly uploading updates from time to time (latest one on [October 25, 2023](https://www.youtube.com/watch?v=A_MVtG_HCqw). My video summary of our January 25, 2024 meet-up at Microsoft is at [https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php](https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php).
 
 My email is "bob.bloom@lasallesoftware.ca". 
+
+<br />
+<hr />
+<br />
+
+Appreciation to our tremendous corporate hosts:
+- [7shifts.com](https://7shifts.com)
+- [Maple Online Health](https://getmaple.ca)
+- [Vetster.com](https://vetster.com)
+- [YTZ International](https://ytz.com)
+
+Thank you to 7Shifts for sponsoring our Groups' meetup.com subscription.
+
