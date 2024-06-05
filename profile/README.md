@@ -25,7 +25,7 @@ My email is "bob.bloom@lasallesoftware.ca".
 <br />
 
 Appreciation to our tremendous corporate hosts:
-- [7shifts.com](https://7shifts.com)
+- [7shifts.com](https://7shifts.com) ([How 7shifts founder Jordan Boesch’s restaurant scheduling software is crushing it from his base in Saskatoon - Toronto Star](https://www.thestar.com/business/how-7shifts-founder-jordan-boesch-s-restaurant-scheduling-software-is-crushing-it-from-his-base/article_0adf3fff-8069-5813-abb5-abf61dee1e0f.html))
 - [Maple Online Health](https://getmaple.ca)
 - [Vetster.com](https://vetster.com)
 - [YTZ International](https://ytz.com)
