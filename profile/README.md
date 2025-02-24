@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- November 2024
+- February 2025
 - the url of this org is https://github.com/local-toronto-php-groups
 
 #
