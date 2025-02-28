@@ -32,3 +32,9 @@ Appreciation to our tremendous corporate hosts:
 
 Thank you to 7Shifts for sponsoring our Groups' meetup.com subscription.
 
+<br />
+<hr />
+<br />
+A special thank you to Peter Meth for sending me this link by  Chris Hartjes:
+
+[The Abridged Story of TrueNorth PHP](https://grumpy-learning.com/blog/2024/11/04/true-north-php/)
