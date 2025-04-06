@@ -1,6 +1,7 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- March 2025
+- April 2025
 - the url of this org is https://github.com/local-toronto-php-groups
+- Whatsapp link for all our PHP Groups: [https://chat.whatsapp.com/GwxyKjEr0LzDwKfCevK8GM](https://chat.whatsapp.com/GwxyKjEr0LzDwKfCevK8GM)
 
 #
 My name is Bob Bloom. I am the lead organizer of:
