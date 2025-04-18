@@ -2,7 +2,8 @@
 - April 2025
 - the url of this org is https://github.com/local-toronto-php-groups
 - Whatsapp link for all our PHP Groups: [https://chat.whatsapp.com/GwxyKjEr0LzDwKfCevK8GM](https://chat.whatsapp.com/GwxyKjEr0LzDwKfCevK8GM)
-
+- Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
+  
 #
 My name is Bob Bloom. I am the lead organizer of:
 - Greater Toronto Area (GTA) PHP Group [(https://www.meetup.com/gta-php-user-group-toronto/)](https://www.meetup.com/gta-php-user-group-toronto/)
