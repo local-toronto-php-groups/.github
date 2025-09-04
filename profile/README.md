@@ -1,14 +1,13 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- April 2025
+- September 2025
 - the url of this org is https://github.com/local-toronto-php-groups
-- Whatsapp link for all our PHP Groups: [https://chat.whatsapp.com/GwxyKjEr0LzDwKfCevK8GM](https://chat.whatsapp.com/GwxyKjEr0LzDwKfCevK8GM)
 - Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
   
 #
 My name is Bob Bloom. I am the lead organizer of:
 - Greater Toronto Area (GTA) PHP Group [(https://www.meetup.com/gta-php-user-group-toronto/)](https://www.meetup.com/gta-php-user-group-toronto/)
-- York Region PHP Group [(https://www.meetup.com/york-region-php-user-group/)](https://www.meetup.com/york-region-php-user-group/)
 - Laravel Toronto [(https://www.meetup.com/laravel-toronto/)](https://www.meetup.com/laravel-toronto/)
+- York Region PHP Group [(https://www.meetup.com/york-region-php-user-group/)](https://www.meetup.com/york-region-php-user-group/)
 
 In lieu of doing websites for each of our three groups, I am doing this GitHub organization as a website proxy. 
 
@@ -18,9 +17,22 @@ Hugo, and other static site generators, were promising, but judging by my retice
 
 I have been creating repos to do notes for specific meet-ups. It is handy to be able to edit something regardless of where I am or what device I am using. And, of course, our attendees are very used to GitHub. And, why not do PR's for contributions? 
 
-I have a [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh) for our Groups, mainly uploading updates from time to time (latest one on [March 10, 2025](https://www.youtube.com/watch?v=Vbw3oz5NDZk). My video summary of our January 25, 2024 meet-up at Microsoft is at [https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php](https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php).
+I have a [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh) for our Groups, mainly uploading updates from time to time (latest one on [April 24, 2025](https://www.youtube.com/watch?v=b-vUT5U7rwg). My video summary of our January 25, 2024 meet-up at Microsoft is at [https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php](https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php).
 
 My email is "bob.bloom@lasallesoftware.ca". 
+
+<br />
+<hr />
+
+## (Sep 2025) Kwame Asamoah just graduated college, and is looking for a gig. 
+<br>
+Kwame did a kick-ass job presenting NativePHP for iOS last April. It was a challenge to learn something very much in development, with no precedent to lean on in the PHP-verse. During his final semester of his senior year. 
+<br><br>
+Kwame did a great job, took a ton of initiative, and did a fantastic job. 
+<br><br>
+
+- [NativePHP for iOS presentation on YouTube](https://www.youtube.com/watch?v=b-vUT5U7rwg)
+- [Kwame's site](https://asamoahboateng.com)
 
 <br />
 <hr />
