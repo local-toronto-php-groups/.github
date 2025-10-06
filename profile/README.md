@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- September 2025
+- October 2025
 - the url of this org is https://github.com/local-toronto-php-groups
 - Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
@@ -41,12 +41,12 @@ Kwame did a great job, took a ton of initiative, and did a fantastic job.
 <br />
 
 Appreciation to our tremendous corporate hosts:
-- [7shifts.com](https://7shifts.com) ([How 7shifts founder Jordan Boesch’s restaurant scheduling software is crushing it from his base in Saskatoon - Toronto Star](https://www.thestar.com/business/how-7shifts-founder-jordan-boesch-s-restaurant-scheduling-software-is-crushing-it-from-his-base/article_0adf3fff-8069-5813-abb5-abf61dee1e0f.html))
 - [Maple Online Health](https://getmaple.ca)
 - [Vetster.com](https://vetster.com)
 - [YTZ International](https://ytz.com)
 
-Thank you to 7Shifts for sponsoring our Groups' meetup.com subscription.
+Appreciation for sponsoring our Groups' meetup.com subscription:
+- [7shifts.com](https://7shifts.com) ([How 7shifts founder Jordan Boesch’s restaurant scheduling software is crushing it from his base in Saskatoon - Toronto Star](https://www.thestar.com/business/how-7shifts-founder-jordan-boesch-s-restaurant-scheduling-software-is-crushing-it-from-his-base/article_0adf3fff-8069-5813-abb5-abf61dee1e0f.html))
 
 <br />
 <hr />
