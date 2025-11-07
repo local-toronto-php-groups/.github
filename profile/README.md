@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- October 2025
+- November 2025
 - the url of this org is https://github.com/local-toronto-php-groups
 - Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
@@ -26,13 +26,12 @@ I have been creating repos to do notes for specific meet-ups. It is handy to be 
 <br />
 <hr />
 
-## (Sep 2025) Kwame Asamoah just graduated college, and is looking for a gig. 
+## (updated November 2025) Looking for a gig...
 <br>
-Kwame did a kick-ass job presenting NativePHP for iOS last April. It was a challenge to learn something very much in development, with no precedent to lean on in the PHP-verse. During his final semester of his senior year. 
-<br><br>
-Kwame did a great job, took a ton of initiative, and did a fantastic job. 
-<br><br>
+Kwame Asamoah:
 
+- did a kick-ass job presenting NativePHP for iOS last April. 
+- challenge to learn something very much in development, with no precedent to lean on in the PHP-verse. During his final semester of his senior year. 
 - [NativePHP for iOS presentation on YouTube](https://www.youtube.com/watch?v=b-vUT5U7rwg)
 - [Kwame's site](https://asamoahboateng.com)
 
