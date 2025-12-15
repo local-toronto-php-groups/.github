@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- November 2025
+- December 2025
 - the url of this org is https://github.com/local-toronto-php-groups
 - Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
@@ -19,21 +19,6 @@ Hugo, and other static site generators, were promising, but judging by my retice
 
 I have been creating repos to do notes for specific meet-ups. It is handy to be able to edit something regardless of where I am or what device I am using. And, of course, our attendees are very used to GitHub. And, why not do PR's for contributions? 
 
-
-
-
-
-<br />
-<hr />
-
-## (updated November 2025) Looking for a gig...
-<br>
-Kwame Asamoah:
-
-- did a kick-ass job presenting NativePHP for iOS last April. 
-- challenge to learn something very much in development, with no precedent to lean on in the PHP-verse. During his final semester of his senior year. 
-- [NativePHP for iOS presentation on YouTube](https://www.youtube.com/watch?v=b-vUT5U7rwg)
-- [Kwame's site](https://asamoahboateng.com)
 
 <br />
 <hr />
