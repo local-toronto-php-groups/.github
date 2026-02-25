@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- December 2025
+- February 2026
 - the url of this org is https://github.com/local-toronto-php-groups
 - Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
