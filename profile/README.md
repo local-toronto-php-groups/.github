@@ -1,5 +1,5 @@
 # Welcome to our GitHub Org for our Local Toronto PHP Groups
-- February 2026
+- May 2026
 - the url of this org is https://github.com/local-toronto-php-groups
 - Discord: [https://discord.gg/6dESV5zFHy](https://discord.gg/6dESV5zFHy)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLXgN_ee2MsFKWqHgS-Pv3Vz515RRAjdLh)
@@ -7,7 +7,7 @@
   
 #
 My name is Bob Bloom. I am the lead organizer of:
-- Greater Toronto Area (GTA) PHP Group [(https://www.meetup.com/gta-php-user-group-toronto/)](https://www.meetup.com/gta-php-user-group-toronto/)
+- Toronto PHP [(https://www.meetup.com/toronto-php/)](https://www.meetup.com/toronto-php/)
 - Laravel Toronto [(https://www.meetup.com/laravel-toronto/)](https://www.meetup.com/laravel-toronto/)
 - York Region PHP Group [(https://www.meetup.com/york-region-php-user-group/)](https://www.meetup.com/york-region-php-user-group/)
 
